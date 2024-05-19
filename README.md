@@ -36,7 +36,7 @@ Thoth provides a robust and flexible type system:
 - **Structural Typing**: Types are determined by the structure and behavior of objects.
 - **Duck Typing**: An object’s suitability is determined by the presence of certain methods and properties.
 - **Latent Typing**: Allows for delayed type checking.
-
+"woof"
 ### Precision and Optimization
 - **Advanced Evaluation System**: Handles floating-point arithmetic with precision and optimizes equations.
 - **Custom Linker**: Allows overriding distribution code for optimization.
@@ -76,6 +76,7 @@ Thoth provides a robust and flexible type system:
 - `Quantum` (for quantum computing operations)
 - 'Qbit'
 
+"Hello there, i used to be aventurer like you till i took a arow to the knee"
 
 Here's the continuation with the new file types you provided:
 
