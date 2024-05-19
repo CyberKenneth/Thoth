@@ -1,0 +1,65 @@
+# Thoth Programming Language License
+
+Copyright (c) 2024, Kenneth Joseph Treadaway
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. **Retention of Rights**:
+    - The original creators of the Thoth Programming Language, Kenneth Joseph Treadaway and Direct Family (the "Creators"), retain the exclusive rights to:
+        - Authorize or revoke the use of the Thoth Programming Language in proprietary software.
+        - Authorize or revoke commercial distribution of the Thoth Programming Language and its derivatives.
+        - Release official updates and versions of the Thoth Programming Language.
+        - Name portions of code and grant naming rights to companies or individuals who contribute significantly to the Thoth community.
+        - Grant patent rights within the scope of reason to contributors for their code.
+    - Any modifications to the core language and its official libraries must be reviewed and approved by the Creators for inclusion in the main distribution.
+
+2. **Maintainers**:
+    - Maintainers appointed by the Creators have the authority to manage contributions, review code, and ensure the integrity and quality of the Thoth Programming Language.
+    - Maintainers have the right to propose changes, merge contributions, and release updates, subject to review by the Creators.
+
+3. **Community Values and Ethical Use**:
+    - The Creators and the Thoth community uphold values of ethical use and knowledge sharing. The use of the Thoth Programming Language to create software that:
+        - Engages in illegal activities,
+        - Exploits users or consumers,
+        - Causes harm to individuals or groups,
+      is strictly prohibited.
+    - If any software built with the Thoth Programming Language is found to violate these values, the Creators, with community consensus and legal advice, have the right to review, crack open, and open source such software to mitigate harm.
+    - This provision ensures the Thoth community maintains ethical standards and promotes the free sharing of knowledge while preventing misuse.
+
+4. **Attribution**:
+    - The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    - Users must provide appropriate attribution to the Creators in any distribution or publication of the Software, its modifications, or derivatives.
+
+5. **Modification and Redistribution**:
+    - Users are permitted to modify and redistribute the Software, provided that the modified versions include prominent notices stating that changes have been made, along with a description of those changes.
+    - Any modifications to the Software must not misrepresent the origin of the Software and must not be represented as the official version unless reviewed and approved by the Creators.
+
+6. **Trademark**:
+    - The name "Thoth Programming Language" and its logo are trademarks of the Creators. Any use of the name or logo must be approved by the Creators.
+    - Unauthorized use of the name "Thoth Programming Language" in any modified version or derivative work is prohibited unless explicitly approved by the Creators.
+
+7. **Warranties and Liability**:
+    - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. **Contribution**:
+    - By contributing to the Thoth Programming Language project, you agree that your contributions will be licensed under the same terms as the Software.
+    - Contributors may be granted naming rights or patent rights for their contributions at the discretion of the Creators.
+
+9. **Commercial Use and Subscription Model**:
+    - Any commercial use of the Software, including subscription models, must ensure that the cost to the end user does not exceed 5% of the average weekly income per month in the target market.
+    - Commercial distributors must provide localized pricing to ensure affordability in different regions.
+
+10. **Rights to Change**:
+    - The Creators retain the right to change this license to ensure compliance with community values, ethical standards, and legal requirements.
+    - Any changes to the license will be communicated to the community with a reasonable notice period.
+
+11. **Scope of Application**:
+    - This license applies to the entire Thoth Programming Language and any derivatives. If any portion or method from the Thoth from binary, derivatives, and/or source code is used in another project, this license and all its terms apply to that project.
+
+---
+
+**Thoth**: A language for the ages, bridging the gap between past, present, and future technologies.
+
+---
+
+For any questions or permissions regarding this license, please contact the Creators here in the GitHub forum community.
